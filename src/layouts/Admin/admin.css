@@ -1,0 +1,31 @@
+.socket-message {
+    color: #ffffff !important;
+    background-color: #fd5d93 !important;
+    position: absolute ;
+    top: 215px;
+    left: 60px;
+    
+    transform: translate(-50%, -50%);
+    z-index: 2000 !important;
+
+
+    text-transform: uppercase;
+    line-height: 12px;
+    border: none;
+    text-decoration: none;
+    margin-bottom: 5px;
+
+    display: inline-block;
+    padding: 0.25rem 0.5rem;
+    font-size: 0.62475rem;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.25rem;
+}
+
+.sidebar .nav li.active > a[data-toggle="collapse"] i{
+    color: #14a800 !important;
+}

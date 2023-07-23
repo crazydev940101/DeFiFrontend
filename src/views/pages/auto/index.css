@@ -1,0 +1,83 @@
+
+
+
+/* 
+.handcraft-sell-button .algobook_loadingButton {
+    border: 1px solid transparent !important;
+    padding: 11px 40px !important;
+    font-size: 0.875rem !important;
+    line-height: 1.35em;
+
+    user-select: none;
+
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block !important;
+    font-weight: 600;
+
+    border-width: 2px;
+    position: relative !important;
+    overflow: hidden;
+    margin: 4px 1px;
+
+    border-radius: 0.4285rem !important;
+    border-color: #14a800 !important;
+
+    background: #14a800;
+    background-image: linear-gradient(to bottom left, #14a800, #14a800, #14a800);
+    background-size: 210% 210%;
+    background-position: top right;
+    background-color: #14a800 !important;
+    transition: all 0.15s ease;
+    box-shadow: none;
+    color: #ffffff !important;
+
+    width: unset !important;
+    height: unset !important;
+}
+.handcraft-sell-button .algobook_loadingButton:hover {
+    background-color: #14a800 !important;
+    background-image: linear-gradient(to bottom left, #14a800, #14a800, #14a800) !important;
+    color: #ffffff;
+    opacity: 1;
+    outline: 0 !important;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4)
+}
+
+
+.white-sell-button .algobook_loadingButton {
+    border-width: 2px;
+    position: relative;
+    overflow: hidden;
+    margin: 4px 1px;
+    border-radius: 0.4285rem;
+    border-color: #14a800 !important;
+    background: #ffffff;
+    background-size: 210% 210%;
+    background-position: top right;
+    transition: all 0.15s ease;
+
+    display: inline-block;
+    font-weight: 600;
+    text-align: center;
+    vertical-align: middle;
+
+    border: 2px solid transparent;
+    padding: 11px 40px;
+    font-size: 0.875rem;
+    line-height: 1.35em;
+
+    user-select: none;
+
+    width: 150px !important;
+    height: unset !important;
+
+    color: #14a800 !important;
+}
+
+.white-sell-button .algobook_loadingButton:hover {
+    -webkit-transform: translateY(-1px);
+    background-color: #ffffff !important;
+    background-image: linear-gradient(to bottom left, #ffffff, #ffffff, #ffffff) !important;
+    text-decoration: none;
+} */
